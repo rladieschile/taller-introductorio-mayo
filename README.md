@@ -4,8 +4,8 @@
 
 ## Sesión 1: introducción a R y RStudio
 
-* [Preparación]()
-* [Materiales]()
+* [Preparación](https://github.com/rladieschile/taller-introductorio-mayo/blob/master/preparacion-sesion-1.md)
+* Materiales: próximamente
 
 ## Sesión 2: funciones básicas para le manejo de datos
 
