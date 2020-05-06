@@ -20,13 +20,13 @@ A continucación hay algunas opciones:
 
 ### Una mitad de la pantalla para cada cosa
 
-Es la opción más simple y no requieres nada más que tu computador. Te sugerimos probar antes cómo se ve RStudio Cloud en media pantalla para que ajuste el zoom de la ventana para que quede en un tamaño legible.
+Es la opción más simple y no requieres nada más que tu computador. Te sugerimos probar antes cómo se ve RStudio Cloud en media pantalla y ajustar con zoom in/out el tamaño del navegador para que sea legible. 
 
 ![](/imagenes/pantalla-dividida.JPG)
 
 ### Una segunda pantalla
 
-Esta es la opción más cómoda, pero no siempre es posible porque requiere más cosas que solo tu computador. Aquí van algunas ideas, en caso de que no tengas un segundo monitor.
+Esta es la opción más cómoda, pero no siempre es posible porque requieres más cosas que solo tu computador. Aquí van algunas ideas, en caso de que no tengas un segundo monitor.
 
 
 #### Conectar tu computador a un televisor
