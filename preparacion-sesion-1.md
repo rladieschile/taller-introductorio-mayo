@@ -20,7 +20,7 @@ A continucación hay algunas opciones:
 
 ### Una mitad de la pantalla para cada cosa
 
-Es la opción más simple y no requieres nada más que tu computador. Te sugerimos probar antes cómo se ve RStudio Cloud en media pantalla y ajustar con zoom in/out el tamaño del navegador para que sea legible. 
+Es la opción más simple y no requieres nada más que tu computador. Te sugerimos probar antes cómo se ve RStudio Cloud en media pantalla y ajustar con zoom in/out el tamaño del navegador para que sea legible.
 
 ![](/imagenes/pantalla-dividida.JPG)
 
@@ -37,4 +37,4 @@ Luego de conectarlo, configura tu computador para que las pantallas no se dupliq
 
 #### Usar otro dispositivo
 
-Si tienes un tablet, puedes conectarte a Zoom desde él para participar en el taller y en paralelo trabajar en tu computador.
+Si tienes una tablet, puedes conectarte a Zoom desde ella para participar en el taller y en paralelo trabajar en tu computador.
