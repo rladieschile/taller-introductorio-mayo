@@ -5,7 +5,8 @@
 ## Sesión 1: introducción a R y RStudio
 
 * [Preparación](https://github.com/rladieschile/taller-introductorio-mayo/blob/master/preparacion-sesion-1.md)
-* Materiales: próximamente
+* [Proyecto en RStudio Cloud con el código](https://rstudio.cloud/project/1252057)
+* ¡El video viene pronto!
 
 ## Sesión 2: funciones básicas para le manejo de datos
 
