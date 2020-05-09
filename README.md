@@ -6,7 +6,7 @@
 
 * [Preparación](https://github.com/rladieschile/taller-introductorio-mayo/blob/master/preparacion-sesion-1.md)
 * [Proyecto en RStudio Cloud con el código](https://rstudio.cloud/project/1252057)
-* [Video](https://www.dropbox.com/s/1uor9owa38h6t5c/rladies-chile-taller-intro-s1.mp4?dl=0) (pronto lo subiremos a Youtube)
+* [Video](https://vimeo.com/416757996)
 
 ## Sesión 2: funciones básicas para le manejo de datos
 
