@@ -21,7 +21,8 @@ Taller a cargo de [Sara Acevedo](https://twitter.com/saryace/)
 ## Sesión 3: visualización de datos (20 de mayo)
 
 Taller a cargo de [Gabriela Sandoval](https://twitter.com/GabySandovalM)
-
+* [Presentación](https://gabysandovalm.github.io/RLadiesChile_intro_ggplot/Presentacion_introggplot2#1)
+* [Proyecto en RStudioCloud](https://rstudio.cloud/project/1300181)
 * [Video](https://vimeo.com/420905415)
 
 ## Sesión 4: aplicaciones prácticas (27 de mayo)
