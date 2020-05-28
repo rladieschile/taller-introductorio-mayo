@@ -27,4 +27,6 @@ Taller a cargo de [Gabriela Sandoval](https://twitter.com/GabySandovalM)
 
 ## Sesión 4: aplicaciones prácticas (27 de mayo)
 
-Taller a cargo de Natalia Riquelme e Isidora Castillo
+Taller a cargo de [Natalia Riquelme](https://twitter.com/NatyRiquelmeS) e [Isidora Castillo](https://twitter.com/IsiCastilloR)
+
+* [Video](https://vimeo.com/423436467)
