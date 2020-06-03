@@ -29,4 +29,5 @@ Taller a cargo de [Gabriela Sandoval](https://twitter.com/GabySandovalM)
 
 Taller a cargo de [Natalia Riquelme](https://twitter.com/NatyRiquelmeS) e [Isidora Castillo](https://twitter.com/IsiCastilloR)
 
+* [Presentación](https://github.com/rladieschile/taller-introductorio-mayo/blob/master/Buenas-Pr%C3%A1cticas-en-R.pdf)
 * [Video](https://vimeo.com/423436467)
